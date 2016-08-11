@@ -8,8 +8,14 @@ Msj para Geraldine:
 Php
 <?php 
 echo '<title>hola niña con gripa </title>'; 
-<p> Espero te mejores</p>
+<p> Espero te mejores</p>;
 
 ?>
 
+
 Geraldine esta modificando desde su rama :D
+
+checkaout es para pasar a la ramo.
+branch para crear una rama.
+checkaout -b (nombre) es para crear y pasar de una vez a la rama.
+
